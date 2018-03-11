@@ -1,0 +1,7 @@
+com\utils\bobko\StringUtilsTest.class
+com\utils\bobko\HTTP\HttpConnectionTest.class
+com\utils\bobko\RandomStringUtilsTest.class
+com\utils\bobko\StringEscapeUtilsTest.class
+com\utils\bobko\HTTP\HTTP_client\HttpClient.class
+com\utils\bobko\RandomUtilsTest.class
+com\utils\bobko\HTTP\HTTP_client\HttpUrlConnectionClient.class
